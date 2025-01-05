@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Sujip Thapa! 👋
 
-<!--
-**sudiptpa/sudiptpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer with over 10 years of experience in full-stack development, specializing in Laravel, React, PHP, and JavaScript. I build scalable and user-friendly web applications and eCommerce solutions.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Laravel
+- React
+- PHP
+- JavaScript
+- CSS3
+- MySQL
+- GitHub
+- AWS
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Some of My Projects
+- [PHP GUID](https://github.com/sudiptpa/guid): A simple, light-weight PHP library to generate GUID in PHP, easy to use with composer and PHP projects.
+- [eSewa Payment Gateway](https://github.com/sudiptpa/esewa): A simple PHP library to integrate with PHP an eSewa Payment gateway services in Nepal. Easy to use with PHP and composer.
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/sujipthapa)
+- [Email](sudiptpa@gmail.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudiptpa&show_icons=true&theme=radical)
