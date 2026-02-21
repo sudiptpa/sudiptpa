@@ -19,7 +19,7 @@ I'm a Senior Software Engineer focused on building scalable, maintainable produc
   - Stable API: `Guid::create()` and `guid()`
   - Added quality gates (tests, static analysis, linting, CI)
 
-- Continuing development on **[sudiptpa/ipstack](https://github.com/sudiptpa/ipstack)**:
+- Continuing development on **[sudiptpa/ipstack v2.x PHP 8.3+](https://github.com/sudiptpa/ipstack)**:
   - Clean PHP client for ipstack
   - Composer-friendly integration
   - Focused on practical developer experience
