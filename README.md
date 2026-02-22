@@ -2,11 +2,11 @@
 
 I'm a Senior Software Engineer focused on building scalable, maintainable products with PHP and JavaScript. I work across backend and frontend with strong emphasis on clean architecture, developer experience, and production reliability.
 
-## 🔧 Technologies & Tools
+## 🔧 Core Stack
 - PHP (7.x, 8.x ecosystem)
 - Laravel
 - JavaScript / React
-- MySQL
+- MySQL / PostgreSQL
 - AWS
 - Docker
 - CI/CD (GitHub Actions)
