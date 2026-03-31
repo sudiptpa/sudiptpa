@@ -8,8 +8,10 @@ I'm a Senior Software Engineer focused on building scalable, maintainable produc
 - [`sudiptpa/paypal-ipn`](https://github.com/sudiptpa/paypal-ipn) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/paypal-ipn?style=flat-square)
 - [`sudiptpa/omnipay-nabtransact`](https://github.com/sudiptpa/omnipay-nabtransact) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/omnipay-nabtransact?style=flat-square)
 - [`sudiptpa/omnipay-esewa`](https://github.com/sudiptpa/esewa) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/omnipay-esewa?style=flat-square)
-- [`sudiptpa/paypal-notifications`](https://github.com/sudiptpa/paypal-notifications)
-- [`sudiptpa/khalti-sdk-php`](https://github.com/sudiptpa/khalti-sdk-php)
+- [`sudiptpa/paypal-notifications`](https://github.com/sudiptpa/paypal-notifications) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/paypal-notifications?style=flat-square)
+- [`sudiptpa/khalti-sdk-php`](https://github.com/sudiptpa/khalti-sdk-php) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/khalti-sdk-php?style=flat-square)
+- [`sudiptpa/wise-php-sdk`](https://github.com/sudiptpa/wise-php-sdk) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/wise-php-sdk?style=flat-square)
+- [`sudiptpa/xero-php-sdk`](https://github.com/sudiptpa/xero-php-sdk) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/xero-php-sdk?style=flat-square)
 
 ## 🔧 Core Stack
 - PHP (7.x, 8.x ecosystem)
@@ -71,6 +73,22 @@ Modern Khalti PHP SDK focused on cleaner architecture, safer integration pattern
 - Cleaner request and response handling
 - Better testability and framework-agnostic integration support
 - Updated tooling, QA, and documentation
+
+### [`sudiptpa/wise-php-sdk`](https://github.com/sudiptpa/wise-php-sdk) (v1.x)
+Framework-agnostic Wise Platform SDK for modern PHP applications.
+
+- Rich request and response models for Wise Platform flows
+- Clean transport architecture with explicit client boundaries
+- Modern package structure, QA, and production-focused docs
+- Built for maintainable integrations in plain PHP or any framework
+
+### [`sudiptpa/xero-php-sdk`](https://github.com/sudiptpa/xero-php-sdk) (v1.0.0)
+A fluent, framework-agnostic Xero PHP SDK for PHP 8.2+ with rich models and broad Xero API coverage.
+
+- Rich models across Accounting, Files, Assets, Projects, Payroll, Finance, App Store, Identity, and Webhooks
+- Fluent tenant-aware OAuth2 and API flows
+- Built-in native transport with custom transport support
+- Production-ready docs, tests, static analysis, and CI
 
 ## 📝 Writing
 I write technical posts at [https://sujipthapa.com](https://sujipthapa.com)
