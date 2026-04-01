@@ -13,6 +13,12 @@ I'm a Senior Software Engineer focused on building scalable, maintainable produc
 - [`sudiptpa/wise-php-sdk`](https://github.com/sudiptpa/wise-php-sdk) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/wise-php-sdk?style=flat-square)
 - [`sudiptpa/xero-php-sdk`](https://github.com/sudiptpa/xero-php-sdk) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/xero-php-sdk?style=flat-square)
 
+---
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sudiptpa)
+
+If this package has been useful to you, GitHub Sponsors is a simple way to support ongoing maintenance, improvements, and future releases.
+
 ## 🔧 Core Stack
 - PHP (7.x, 8.x ecosystem)
 - Laravel
