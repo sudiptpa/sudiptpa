@@ -104,5 +104,3 @@ I write technical posts at [https://sujipthapa.com](https://sujipthapa.com)
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/sujipthapa)
 - [Contact](https://sujipthapa.com/contactus)
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sudiptpa&show_icons=true&hide_border=true&rank_icon=github)
