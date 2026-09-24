@@ -65,7 +65,7 @@ I also use modern automation and machine-assisted workflows for research, review
 
 I am open to selected freelance, contract, and casual work, from focused fixes to full web application builds. I am a strong fit for Laravel, PHP, commerce, payments, API integrations, dashboards, internal tools, and production systems that need careful engineering.
 
-For larger projects, I can also work with a trusted network of developers and product designers, so the work can cover both solid engineering and polished user experience.
+For larger projects, I have a close circle of trusted developers and product designers I can bring in to help deliver a high-quality product.
 
 <table>
   <tr>
