@@ -1,106 +1,328 @@
-# Hi, I'm Sujip Thapa! 👋
+<div align="center">
 
-I'm a Senior Software Engineer focused on building scalable, maintainable products with PHP and JavaScript. I work across backend and frontend with strong emphasis on clean architecture, developer experience, and production reliability.
+# Sujip Thapa
 
-## 🔥 Popular Packages
-- [`sudiptpa/guid`](https://github.com/sudiptpa/guid) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/guid?style=flat-square)
-- [`sudiptpa/ipstack`](https://github.com/sudiptpa/ipstack) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/ipstack?style=flat-square)
-- [`sudiptpa/paypal-ipn`](https://github.com/sudiptpa/paypal-ipn) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/paypal-ipn?style=flat-square)
-- [`sudiptpa/omnipay-nabtransact`](https://github.com/sudiptpa/omnipay-nabtransact) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/omnipay-nabtransact?style=flat-square)
-- [`sudiptpa/omnipay-esewa`](https://github.com/sudiptpa/esewa) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/omnipay-esewa?style=flat-square)
-- [`sudiptpa/paypal-notifications`](https://github.com/sudiptpa/paypal-notifications) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/paypal-notifications?style=flat-square)
-- [`sudiptpa/khalti-sdk-php`](https://github.com/sudiptpa/khalti-sdk-php) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/khalti-sdk-php?style=flat-square)
-- [`sudiptpa/wise-php-sdk`](https://github.com/sudiptpa/wise-php-sdk) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/wise-php-sdk?style=flat-square)
-- [`sudiptpa/xero-php-sdk`](https://github.com/sudiptpa/xero-php-sdk) ![Packagist Downloads](https://img.shields.io/packagist/dt/sudiptpa/xero-php-sdk?style=flat-square)
+**Senior Software Engineer for commerce platforms, payment systems, SDKs, and production PHP packages.**
+
+<a href="https://sujipthapa.com">Website</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sujipthapa">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://sujipthapa.com/contactus">Contact</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/sponsors/sudiptpa">Sponsor</a>
+
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/PHP-Production%20Packages-4F5D95?style=for-the-badge&logo=php&logoColor=white" alt="PHP production packages">
+<img src="https://img.shields.io/badge/Laravel-Commerce%20Platforms-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel commerce platforms">
+<img src="https://img.shields.io/badge/Open%20Source-247k%2B%20Downloads-2ea44f?style=for-the-badge&logo=packagist&logoColor=white" alt="247k+ open source downloads">
+
+<br>
+<br>
+
+<a href="https://github.com/sponsors/sudiptpa">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub">
+</a>
+
+</div>
 
 ---
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sudiptpa)
+I build software for the parts of a product that must keep working after launch: checkout, payments, shipping, APIs, webhooks, admin tools, catalog flows, and third-party integrations.
 
-If the packages I have created have been useful to you, consider supporting their continued development through GitHub Sponsors. Your support helps maintain the projects, fund improvements, and ensure future updates.
+My work sits mostly in the PHP and Laravel ecosystem, with React and TypeScript on the frontend when the product needs rich interfaces. I like systems with clear domain boundaries, small package surfaces, typed models, useful tests, and documentation that helps another developer ship with confidence.
 
-Thank you for your support! 🚀
+I also use modern automation and machine-assisted workflows for research, review, refactoring, documentation, and maintenance. The point is simple: better feedback, better code, and less manual drag around serious engineering work.
 
-## 🔧 Core Stack
-- PHP (7.x, 8.x ecosystem)
-- Laravel
-- JavaScript / React
-- MySQL / PostgreSQL
-- AWS
-- Docker
-- CI/CD (GitHub Actions)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>12+ years</strong>
+      <br>
+      <sub>software engineering</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>17</strong>
+      <br>
+      <sub>Packagist packages</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>247k+</strong>
+      <br>
+      <sub>package downloads</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>20+</strong>
+      <br>
+      <sub>payment integrations</sub>
+    </td>
+  </tr>
+</table>
 
-## 🚀 Recent Open Source Work
+## Engineering Profile
 
-### [`sudiptpa/guid`](https://github.com/sudiptpa/guid) (v3.x)
-Lightweight standalone GUID generator for modern PHP.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend and Platform</strong>
+      <br>
+      <sub>PHP, Laravel, REST APIs, queues, webhooks, MySQL, MariaDB, package design, service boundaries.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Commerce Systems</strong>
+      <br>
+      <sub>Checkout, payments, shipping, inventory, marketplaces, product data, multi-storefront workflows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Integrations</strong>
+      <br>
+      <sub>PayPal, Adyen, eBay, Xero, carrier APIs, manufacturer feeds, webhook verification.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Frontend and Delivery</strong>
+      <br>
+      <sub>React, TypeScript, Inertia, Livewire, Blade, Alpine.js, Tailwind CSS, PHPUnit, Pest, Docker, GitHub Actions, AWS, Linux.</sub>
+    </td>
+  </tr>
+</table>
 
-- Zero runtime dependencies
-- Stable API: `Guid::create()` and `guid()`
-- Quality gates: tests, static checks, and CI
+## Open Source Portfolio
 
-### [`sudiptpa/ipstack`](https://github.com/sudiptpa/ipstack) (v2.x)
-Modern PHP client for ipstack geolocation APIs.
+All packages below are published on Packagist under `sudiptpa/*`, sorted by current download count, highest first.
 
-- Clean factory and client architecture
-- Typed response models and mapper layer
-- PSR-18 transport support and custom transport contract
-- Robust exception model, test coverage, and CI matrix
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/guid">sudiptpa/guid</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/guid?style=flat-square&label=downloads" alt="sudiptpa/guid downloads">
+    </td>
+    <td valign="top">
+      Lightweight GUID generation for modern PHP applications.
+      <br>
+      <sub>Small package surface, zero runtime dependencies, stable helper API, modern tooling.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/ipstack">sudiptpa/ipstack</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/ipstack?style=flat-square&label=downloads" alt="sudiptpa/ipstack downloads">
+    </td>
+    <td valign="top">
+      PHP client for ipstack geolocation APIs.
+      <br>
+      <sub>Typed responses, clear client boundaries, PSR transport support, predictable exceptions.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/paypal-ipn">sudiptpa/paypal-ipn</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/paypal-ipn?style=flat-square&label=downloads" alt="sudiptpa/paypal-ipn downloads">
+    </td>
+    <td valign="top">
+      Modern PayPal IPN verification for legacy PayPal workflows.
+      <br>
+      <sub>Fluent API, framework-agnostic transport, migration path, production-focused behavior.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/omnipay-nabtransact">sudiptpa/omnipay-nabtransact</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/omnipay-nabtransact?style=flat-square&label=downloads" alt="sudiptpa/omnipay-nabtransact downloads">
+    </td>
+    <td valign="top">
+      Omnipay gateway for NAB Transact payment processing.
+      <br>
+      <sub>Checkout and transaction flows built around the Omnipay payment ecosystem.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/xero-php-sdk">sudiptpa/xero-php-sdk</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/xero-php-sdk?style=flat-square&label=downloads" alt="sudiptpa/xero-php-sdk downloads">
+    </td>
+    <td valign="top">
+      Fluent PHP SDK for Xero APIs.
+      <br>
+      <sub>Tenant-aware OAuth2 flows, rich domain models, broad API coverage, custom transport support.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/geoip">sudiptpa/geoip</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/geoip?style=flat-square&label=downloads" alt="sudiptpa/geoip downloads">
+    </td>
+    <td valign="top">
+      Simple IP geolocation library for PHP.
+      <br>
+      <sub>Earlier geolocation package, now superseded by the newer ipstack client.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/esewa-sdk-php">sudiptpa/omnipay-esewa</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/omnipay-esewa?style=flat-square&label=downloads" alt="sudiptpa/omnipay-esewa downloads">
+    </td>
+    <td valign="top">
+      eSewa payment integration package for PHP applications.
+      <br>
+      <sub>Checkout, verification, status flows, callback validation, test-friendly integration patterns.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/openpay">sudiptpa/omnipay-openpay</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/omnipay-openpay?style=flat-square&label=downloads" alt="sudiptpa/omnipay-openpay downloads">
+    </td>
+    <td valign="top">
+      Omnipay gateway for OpenPay payment processing.
+      <br>
+      <sub>Payment gateway integration for checkout and transaction workflows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/wise-php-sdk">sudiptpa/wise-php-sdk</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/wise-php-sdk?style=flat-square&label=downloads" alt="sudiptpa/wise-php-sdk downloads">
+    </td>
+    <td valign="top">
+      Framework-agnostic SDK for Wise Platform integrations.
+      <br>
+      <sub>Request and response models, explicit client boundaries, maintainable finance workflows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/khalti-sdk-php">sudiptpa/khalti-sdk-php</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/khalti-sdk-php?style=flat-square&label=downloads" alt="sudiptpa/khalti-sdk-php downloads">
+    </td>
+    <td valign="top">
+      PHP SDK for Khalti payment integrations.
+      <br>
+      <sub>Clean package structure, safer request handling, framework-agnostic usage, practical docs.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/paypal-rest">sudiptpa/paypal-rest</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/paypal-rest?style=flat-square&label=downloads" alt="sudiptpa/paypal-rest downloads">
+    </td>
+    <td valign="top">
+      Omnipay gateway for PayPal REST payments.
+      <br>
+      <sub>Payment processing integration built around the Omnipay ecosystem.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/zippay">sudiptpa/zippay</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/zippay?style=flat-square&label=downloads" alt="sudiptpa/zippay downloads">
+    </td>
+    <td valign="top">
+      ZipPay driver for Omnipay payment processing.
+      <br>
+      <sub>Checkout integration for ZipPay-style payment flows.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/paypal-notifications">sudiptpa/paypal-notifications</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/paypal-notifications?style=flat-square&label=downloads" alt="sudiptpa/paypal-notifications downloads">
+    </td>
+    <td valign="top">
+      PayPal notifications SDK for Webhooks and IPN.
+      <br>
+      <sub>Webhook models, signature verification, retry controls, token cache patterns, idempotency support.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/filament-turnstile">sudiptpa/filament-turnstile</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/filament-turnstile?style=flat-square&label=downloads" alt="sudiptpa/filament-turnstile downloads">
+    </td>
+    <td valign="top">
+      Cloudflare Turnstile field for Filament forms.
+      <br>
+      <sub>Bot-resistant form protection for Filament applications.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/transdirect">sudiptpa/transdirect</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/transdirect?style=flat-square&label=downloads" alt="sudiptpa/transdirect downloads">
+    </td>
+    <td valign="top">
+      Dependency-free PHP client for the Transdirect REST API.
+      <br>
+      <sub>Shipping and logistics API integration with a small package surface.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/laravel-sent-dm">sudiptpa/laravel-sent-dm</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/laravel-sent-dm?style=flat-square&label=downloads" alt="sudiptpa/laravel-sent-dm downloads">
+    </td>
+    <td valign="top">
+      Laravel adapter for the Sent.dm unified messaging API.
+      <br>
+      <sub>SMS, WhatsApp, and RCS messaging through a fluent Laravel interface.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <strong><a href="https://github.com/sudiptpa/omnipay-mpgs">sudiptpa/omnipay-mpgs</a></strong>
+      <br>
+      <img src="https://img.shields.io/packagist/dt/sudiptpa/omnipay-mpgs?style=flat-square&label=downloads" alt="sudiptpa/omnipay-mpgs downloads">
+    </td>
+    <td valign="top">
+      Omnipay gateway for MPGS payment processing.
+      <br>
+      <sub>Payment gateway integration for MPGS-backed transaction flows.</sub>
+    </td>
+  </tr>
+</table>
 
-### [`sudiptpa/paypal-notifications`](https://github.com/sudiptpa/paypal-notifications) (v1.1.0)
-Framework-agnostic PayPal notifications SDK covering Webhooks and legacy IPN, designed for production safety and extensibility.
+## What I Build Well
 
-- Typed webhook event models across major PayPal domains
-- Signature verification hardening and failure-mode handling
-- Retry strategy controls for verification calls
-- Persisted token cache patterns and idempotency extensions
-- Minimal dependencies with extensible transport architecture
-- CI, tests, static analysis, and architecture docs
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Payment and checkout systems</strong>
+      <br>
+      <sub>Gateway flows, payment verification, webhooks, saved carts, order state, customer-facing reliability.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Integration-heavy platforms</strong>
+      <br>
+      <sub>ERP, marketplace, carrier, accounting, catalog, and manufacturer data connections.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Maintainable package design</strong>
+      <br>
+      <sub>Small APIs, typed objects, transport boundaries, tests, docs, and release discipline.</sub>
+    </td>
+  </tr>
+</table>
 
-### [`sudiptpa/paypal-ipn`](https://github.com/sudiptpa/paypal-ipn) (v3.0.0)
-Modernized PayPal IPN PHP library for legacy PayPal integrations, rebuilt with a fluent API and framework-agnostic transport support.
+## Writing and Support
 
-- Modern fluent API for new IPN integrations
-- Support for legacy PayPal IPN, NVP, SOAP, and classic PayPal API workflows
-- Optional cURL, optional Guzzle, and custom transport support
-- No hard runtime dependency on Guzzle or Symfony Event Dispatcher
-- Improved tests, CI, static analysis, and migration docs
-
-### [`sudiptpa/esewa`](https://github.com/sudiptpa/esewa-sdk-php) (v3.x)
-Modernized eSewa integration package with model-based payloads and secure callback verification.
-
-- ePay v2-aligned architecture
-- Signature verification and anti-fraud checks
-- Typed domain models for checkout, verification, and status flows
-- Framework-agnostic core and test-friendly contracts
-
-### [`sudiptpa/khalti-sdk-php`](https://github.com/sudiptpa/khalti-sdk-php) (v1.x)
-Modern Khalti PHP SDK focused on cleaner architecture, safer integration patterns, and long-term maintainability.
-
-- Modernized package structure and developer experience
-- Cleaner request and response handling
-- Better testability and framework-agnostic integration support
-- Updated tooling, QA, and documentation
-
-### [`sudiptpa/wise-php-sdk`](https://github.com/sudiptpa/wise-php-sdk) (v1.x)
-Framework-agnostic Wise Platform SDK for modern PHP applications.
-
-- Rich request and response models for Wise Platform flows
-- Clean transport architecture with explicit client boundaries
-- Modern package structure, QA, and production-focused docs
-- Built for maintainable integrations in plain PHP or any framework
-
-### [`sudiptpa/xero-php-sdk`](https://github.com/sudiptpa/xero-php-sdk) (v1.0.0)
-A fluent, framework-agnostic Xero PHP SDK for PHP 8.2+ with rich models and broad Xero API coverage.
-
-- Rich models across Accounting, Files, Assets, Projects, Payroll, Finance, App Store, Identity, and Webhooks
-- Fluent tenant-aware OAuth2 and API flows
-- Built-in native transport with custom transport support
-- Production-ready docs, tests, static analysis, and CI
-
-## 📝 Writing
-I write technical posts at [https://sujipthapa.com](https://sujipthapa.com)
-
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/sujipthapa)
-- [Contact](https://sujipthapa.com/contactus)
+I write technical notes at [sujipthapa.com](https://sujipthapa.com). If my packages help your work, you can support maintenance through [GitHub Sponsors](https://github.com/sponsors/sudiptpa).
