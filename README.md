@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/PHP-Production%20Packages-4F5D95?style=for-the-badge&logo=php&logoColor=white" alt="PHP production packages">
 <img src="https://img.shields.io/badge/Laravel-Commerce%20Platforms-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel commerce platforms">
 <img src="https://img.shields.io/badge/Open%20Source-247k%2B%20Downloads-2ea44f?style=for-the-badge&logo=packagist&logoColor=white" alt="247k+ open source downloads">
+<img src="https://komarev.com/ghpvc/?username=sudiptpa&label=Profile%20Views&style=for-the-badge&logo=packagist&logoColor=white" alt="Profile Views">
 
 <br>
 <br>
